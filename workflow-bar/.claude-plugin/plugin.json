@@ -1,0 +1,7 @@
+{
+  "name": "workflow-bar",
+  "version": "0.1.0",
+  "description": "One band above the prompt that shows where the work unit is: running agents first",
+  "author": { "name": "Kurkulya" },
+  "types": "./types/index.d.ts"
+}

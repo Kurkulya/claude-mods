@@ -1,0 +1,6 @@
+{
+  "name": "claude-mods",
+  "description": "Claude Code mods: workflow-bar, a band above the prompt that shows where the anomaly work unit is",
+  "owner": { "name": "Kurkulya" },
+  "plugins": [{ "name": "workflow-bar", "source": "./workflow-bar" }]
+}
